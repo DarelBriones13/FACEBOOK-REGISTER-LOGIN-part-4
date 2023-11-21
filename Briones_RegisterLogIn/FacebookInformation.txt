@@ -1,0 +1,10 @@
+Name: Darel Briones
+Email/Num.: darelbriones123
+Password: darel123
+Gender: MALE
+Course: BSIT
+HOBBIES: 
+Exercising
+Reading
+Playing Online Games
+--------------------------------------------------
